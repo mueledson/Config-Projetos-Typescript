@@ -9,23 +9,17 @@
 
 ### Ao fazer o npm i typescript -D irá criar a pasta typescript na past node_modules
 
-<!--  -->
-
 ## Como instalar o ts-node
 
 `` npm i ts-node -D ``
 
 ### Ao fazer o npm i typescript -D irá criar a pasta typescript na past node_modules
 
-<!--  -->
-
 ## Assim que se recompila o projeto
 
 `` npx tsc ``
 
 ### Ao recompilar o projeto até pode aparecer que deu errado no terminal mas está certo apenas ignore os erros
-
-<!--  -->
 
 ## Depois de instalarmos o Typescript iremos intalar o eslint
 
