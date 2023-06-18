@@ -3,8 +3,6 @@
 ## Como criar o projeto Typescript
 `` typescript --init ``
 
-<!--  -->
-
 ## Como instalar o Typescript
 
 `` npm i typescript -D ``
